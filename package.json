@@ -1,0 +1,15 @@
+{
+  "name": "pay2bank",
+  "version": "1.0.0",
+  "description": "",
+  "main": "demo1.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "rahulsehrawat",
+  "license": "ISC",
+  "devDependencies": {
+    "@parcel/transformer-image": "^2.0.0-rc.0",
+    "parcel": "^2.0.0-rc.0"
+  }
+}
